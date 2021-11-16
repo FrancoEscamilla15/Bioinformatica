@@ -1,4 +1,4 @@
-# Bioinformatica
 Proyecto final bioinformática  
-En este proyecto se van a subir los avances realizados en Rstudio de mi proyecto final de 
-bioinfomatica, a partir de "Rosalind".
+En este proyecto se van a subir los avances realizados en R de mi proyecto final de bioinfomatica, esto a partir del sistema de puntaje y la reglamentación existente por parte de la FIA (federación internacional del automovilismo) para la Formula 1. 
+Se realizaran dos scripts, en el primero de ellos relacionado al puntaje, se busca realizar un programa que calcule la diferenecia de puntos entre pilotos y dado que los puntajes cambien debido a una nueva carrera el programa sea capaz de calcular esa nueva diferencia. 
+En el segundo script, a partir de las medidas permitidas por la FIA en su reglamento para cada carro, se generó un programa que le permita al usuario conocer si las medidas de algun carro que esta siendo analizado son legales o no, el programa preguntará las medidas correspondientes y lo unico que tendrá que hacer el usuario será ingresar dichas medidas y el programa le indicará si cumple con las reglas y en caso de no hacerlo que multa tendría que pagar. 
